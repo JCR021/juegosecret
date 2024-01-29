@@ -38,7 +38,7 @@ function limpiarcaja () {
 }
     
 function mensajesinci() {
-    asignar1 ("h1", "Juego del codigo!" );
+    asignar1 ("h1", "Juego del codigo! (este juego es de Juan, gracias)" );
     asignar1 ("p", `Indica un numero del 1 al ${numeromax}`);
     numerosecreto = generarnumerosecret();
     intentos = 1;
